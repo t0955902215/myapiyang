@@ -6,15 +6,15 @@ title:阿皮洋
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 家管
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 台灣/屏東縣
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 心存善念
 
 #interests:
 #- Artificial Intelligence
