@@ -6,15 +6,15 @@ title:阿皮洋
 superuser: true
 
 # Role/position
-role: 家管
+role:家管
 
 # Organizations/Affiliations
 organizations:
-- name: 台灣/屏東縣
+- name:台灣/屏東縣
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心存善念
+bio:心存善念
 
 #interests:
 #- Artificial Intelligence
